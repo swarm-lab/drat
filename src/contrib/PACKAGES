@@ -1,0 +1,7 @@
+Package: swaRm
+Version: 0.2.1
+Imports: data.table, geosphere, lubridate, zoo, memoise
+Suggests: dplyr
+MD5sum: 13b6c6931462265bf32f1711f4adc787
+NeedsCompilation: no
+
