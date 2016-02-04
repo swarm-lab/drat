@@ -5,3 +5,11 @@ Suggests: dplyr
 MD5sum: 13b6c6931462265bf32f1711f4adc787
 NeedsCompilation: no
 
+Package: teachR
+Version: 0.1
+Imports: Rcpp (>= 0.11.6), shiny (>= 0.11.1)
+LinkingTo: Rcpp
+License: GPL (>= 3)
+MD5sum: 00bcc520f7ba43f31584f28aaea71456
+NeedsCompilation: yes
+
