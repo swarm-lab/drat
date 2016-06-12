@@ -1,8 +1,8 @@
 Package: swaRm
-Version: 0.2.1
+Version: 0.2.3
 Imports: data.table, geosphere, lubridate, zoo, memoise
-Suggests: dplyr
-MD5sum: 093ea63476caaf4abdad0d17529eadec
+Suggests: dplyr, DT, ggmap
+MD5sum: f08e5568d40bd8faffffa8952d8d35f2
 NeedsCompilation: no
 
 Package: teachR
