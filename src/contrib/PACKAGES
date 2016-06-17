@@ -1,8 +1,9 @@
 Package: swaRm
 Version: 0.2.4
-Imports: R6Frame, dplyr, geosphere, lubridate, zoo, memoise
+Depends: R6Frame
+Imports: dplyr, geosphere, lubridate, zoo, memoise
 Suggests: ggmap
-MD5sum: c2e8b4cc4d598c0db44245e6d9e24308
+MD5sum: 0bd7f5a00ef5b9cc03c75570da414496
 NeedsCompilation: no
 
 Package: teachR
