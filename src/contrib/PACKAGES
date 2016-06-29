@@ -1,3 +1,11 @@
+Package: ROpenCV
+Version: 0.1.31
+Imports: Rcpp (>= 0.12.5)
+LinkingTo: Rcpp
+License: GPL-3
+MD5sum: de7f0708f54d11e7258ea3d31d70715e
+NeedsCompilation: yes
+
 Package: swaRm
 Version: 0.2.4
 Depends: R6Frame
